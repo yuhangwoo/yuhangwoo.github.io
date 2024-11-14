@@ -520,6 +520,16 @@
             },
           },
         {%- endif -%}
+        {%- if site.zhihu_id -%}
+          {
+            id: 'socials-zhihu',
+            title: 'Zhihu',
+            section: 'Socials',
+            handler: () => {
+              window.open("https://www.zhihu.com/people/{{ site.zhihu_id }}", "_blank");
+            },
+          },
+        {%- endif -%}
         {%- if site.rss_icon -%}
           {
             id: 'socials-rss',
