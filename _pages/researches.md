@@ -18,7 +18,8 @@ nav: true
 </div>
 
 <div class="caption">
-    Blockchain platform built based on [WeBASE](https://github.com/WeBankBlockchain/WeBASE) and DashDAGView[DashDAGView](https://github.com/yuhangwoo/DashDAGView) for visulizing model training in FL.
+    Blockchain platform built based on <a href="https://github.com/WeBankBlockchain/WeBASE">WeBASE</a> and 
+    <a href="https://github.com/yuhangwoo/DashDAGView">DashDAGView</a> for visualizing model training in FL.
 </div>
 
 <hr>
@@ -33,5 +34,5 @@ nav: true
 </div>
 
 <div class="caption">
-    Agent (vehicle) pretrained by FL and retrained by PPO, verified in autonomous driving simulation developed by the [CARLA team](https://github.com/carla-simulator)
+    Agent (vehicle) pretrained by FL and retrained by PPO, verified in autonomous driving simulation developed by the <a href="https://github.com/carla-simulator">CARLA team</a>.
 </div>
